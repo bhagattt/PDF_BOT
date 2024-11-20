@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>WhatsApp PDF Bot</title>
+
 </head>
 <body>
   <h1>WhatsApp PDF Bot</h1>
